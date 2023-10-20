@@ -34,4 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ncruciani&" alt="ncruciani" /></p>
 
-![image](https://github.com/ncruciani/ncruciani/assets/124509303/bf05d164-125f-47d8-af56-31ff2a4c6d04)
