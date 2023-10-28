@@ -29,7 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ncruciani&show_icons=true&locale=en&layout=compact" alt="ncruciani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncruciani&show_icons=true&locale=en" alt="ncruciani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ncruciani&" alt="ncruciani" /></p>
 
