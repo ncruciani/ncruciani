@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncruciani&label=Profile%20views&color=0e75b6&style=flat" alt="ncruciani" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **finding a full-time job and freelance work**
 
 - 🌱 I’m currently learning **Java in the Coding Dojo Bootcamp**
 
