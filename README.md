@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Freelance Work**
 
-- 🤝 I’m looking for help with **Job Search**
+- 🤝 I’m looking for help with **Job Search and interview prep**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nik-cruciani-fullstack-developer/](https://www.linkedin.com/in/nik-cruciani-fullstack-developer/)
 
