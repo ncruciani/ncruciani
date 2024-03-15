@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on **finding a full-time job and freelance work**
 
+
 - 🌱 I’m currently learning **Java in the Coding Dojo Bootcamp**
 
 - 👯 I’m looking to collaborate on **Freelance Work**
