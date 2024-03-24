@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nik-cruciani-fullstack-developer/](https://www.linkedin.com/in/nik-cruciani-fullstack-developer/)
 
-- 💬 Ask me about **Web-Development , Debugging , ect.**
+- 💬 Ask me about **Web-Development , Debugging , Backend Development ect.**
 
 - 📫 How to reach me **ncruciani23@gmail.com**
 
