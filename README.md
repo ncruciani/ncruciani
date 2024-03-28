@@ -12,8 +12,6 @@
 
 - 🤝 I’m looking for help with **Job Search and interview prep**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/nik-cruciani-fullstack-developer/](https://www.linkedin.com/in/nik-cruciani-fullstack-developer/)
-
 - 💬 Ask me about **Web-Development , Debugging , Backend Development ect.**
 
 - 📫 How to reach me **ncruciani23@gmail.com**
@@ -21,7 +19,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nik-cruciani-fullstack-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolas cruciani" height="30" width="40" /></a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
