@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on **finding a full-time job and freelance work**
 
+
 - 👯 I’m looking to collaborate on **Freelance Work**
 
 - 🤝 I’m looking for help with **Job Search and interview prep**
