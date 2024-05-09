@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Nikolas Cruciani</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from Connecticut</h3>
 
