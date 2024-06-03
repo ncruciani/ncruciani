@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="500" height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncruciani&label=Profile%20views&color=0e75b6&style=flat" alt="ncruciani" /> </p>
 
-
 - 🔭 I’m currently working on **Freelance Work**
 
 - 🤝 I’m looking for help with **Job Preperations**
