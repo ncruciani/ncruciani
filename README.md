@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **Freelance Work**
 
-
 - 🌱 I’m currently learning **Three.JS**
 
 - 🤝 I’m looking for help with **Job Preperation**
